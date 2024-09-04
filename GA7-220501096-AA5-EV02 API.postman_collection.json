@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "7e29e8e4-1f75-4a2d-a19b-a7fd6bc7211a",
+		"name": "GA7-220501096-AA5-EV02 API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38124879"
+	},
+	"item": [
+		{
+			"name": "login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
